@@ -9,7 +9,7 @@
 |---------------------------------|-------------|
 | [Factory](/docs/factory.md)     | `TODO`      |
 | [Builder](/docs/builder.md)     | `TODO`      |
-| [Singleton](/docs/singleton.md) | `TODO`      |
+| [Singleton](/docs/singleton.md) | restricting the instantiation of a class to one "single" instance |
 
 ## Structural
 `TODO`
