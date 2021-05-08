@@ -1,29 +1,30 @@
 # Design patterns
 
-## What is design pattern ?
+## What is a design pattern ?
 `TODO`
 
-## List of design patterns
-| Design pattern | Type | Description |
-|----------------|------|-------------|
-| [Factory](/factory/README.md) | [Creational](#creational) | `TODO` |
-| [Builder](/builder/README.md) | [Creational](#creational) | `TODO` |
-| [Singleton](/strategy/README.md) | [Creational](#creational) | `TODO` |
-| [Adapter](/adapter/README.md) | [Structural](#structural) | `TODO` |
-| [Composite](/composite/README.md) | [Structural](#structural) | `TODO` |
-| [Decorator](/decorator/README.md) | [Structural](#structural) | `TODO` |
-| [Facade](/facade/README.md) | [Structural](#structural) | `TODO` |
-| [Command](/command/README.md) | [Behavioural](#behavioural) | `TODO` |
-| [Observer](/observer/README.md) | [Behavioural](#behavioural) | `TODO` |
-| [State](/state/README.md) | [Behavioural](#behavioural) | `TODO` |
-| [Strategy](/strategy/README.md) | [Behavioural](#behavioural) | `TODO` |
-
-## Design pattern types
-### Creational
+## Creational
 `TODO`
+| Design pattern | Description |
+|----------------|-------------|
+| [Factory](/factory/README.md) | `TODO` |
+| [Builder](/builder/README.md) | `TODO` |
+| [Singleton](/strategy/README.md) | `TODO` |
 
-### Structural
+## Structural
 `TODO`
+| Design pattern | Description |
+|----------------|-------------|
+| [Adapter](/adapter/README.md) | `TODO` |
+| [Composite](/composite/README.md) | `TODO` |
+| [Decorator](/decorator/README.md) | `TODO` |
+| [Facade](/facade/README.md) | `TODO` |
 
-### Behavioural
+## Behavioural
 `TODO`
+| Design pattern | Description |
+|----------------|-------------|
+| [Command](/command/README.md) | `TODO` |
+| [Observer](/observer/README.md) | `TODO` |
+| [State](/state/README.md) | `TODO` |
+| [Strategy](/strategy/README.md) | `TODO` |
