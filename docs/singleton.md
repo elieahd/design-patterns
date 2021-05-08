@@ -7,7 +7,7 @@ Providing a way to access it without the need to instantiate the object of the c
 
 ## Diagram
 <p align="center">
-  <img src="diagrams/diagram.png">
+  <img src="diagrams/singleton.png">
 </p>
 
 ## Code
