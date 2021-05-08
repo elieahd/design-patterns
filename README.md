@@ -9,7 +9,7 @@
 |----------------|-------------|
 | [Factory](/factory/README.md) | `TODO` |
 | [Builder](/builder/README.md) | `TODO` |
-| [Singleton](/strategy/README.md) | `TODO` |
+| [Singleton](/singleton/README.md) | `TODO` |
 
 ## Structural
 `TODO`
