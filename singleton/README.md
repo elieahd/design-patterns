@@ -3,11 +3,11 @@
 ## Description
 Creating an object while making sure that only single object gets created.
 
-Poviding a way to access it without the need to instantiate the object of the class.
+Providing a way to access it without the need to instantiate the object of the class.
 
 ## Diagram
 <p align="center">
-  <img src="imgs/diagram.png">
+  <img src="diagrams/diagram.png">
 </p>
 
 ## Code
