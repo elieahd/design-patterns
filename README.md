@@ -5,26 +5,26 @@
 
 ## Creational
 `TODO`
-| Design pattern | Description |
-|----------------|-------------|
-| [Factory](/factory/README.md) | `TODO` |
-| [Builder](/builder/README.md) | `TODO` |
-| [Singleton](/singleton/README.md) | `TODO` |
+| Design pattern          | Description |
+|-------------------------|-------------|
+| [Factory](/factory)     | `TODO`      |
+| [Builder](/builder)     | `TODO`      |
+| [Singleton](/singleton) | `TODO`      |
 
 ## Structural
 `TODO`
-| Design pattern | Description |
-|----------------|-------------|
-| [Adapter](/adapter/README.md) | `TODO` |
-| [Composite](/composite/README.md) | `TODO` |
-| [Decorator](/decorator/README.md) | `TODO` |
-| [Facade](/facade/README.md) | `TODO` |
+| Design pattern          | Description |
+|-------------------------|-------------|
+| [Adapter](/adapter)     | `TODO`      |
+| [Composite](/composite) | `TODO`      |
+| [Decorator](/decorator) | `TODO`      |
+| [Facade](/facade)       | `TODO`      |
 
 ## Behavioural
 `TODO`
-| Design pattern | Description |
-|----------------|-------------|
-| [Command](/command/README.md) | `TODO` |
-| [Observer](/observer/README.md) | `TODO` |
-| [State](/state/README.md) | `TODO` |
-| [Strategy](/strategy/README.md) | `TODO` |
+| Design pattern        | Description |
+|-----------------------|-------------|
+| [Command](/command)   | `TODO`      |
+| [Observer](/observer) | `TODO`      |
+| [State](/state)       | `TODO`      |
+| [Strategy](/strategy) | `TODO`      |
