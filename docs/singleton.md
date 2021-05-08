@@ -11,6 +11,8 @@ Providing a way to access it without the need to instantiate the object of the c
 </p>
 
 ## Code
+Check code [here](../src/main/java/com/devt/patterns/singleton)
+
 ```java
 public class MySingleton {
   // static member, instance of the singleton class
