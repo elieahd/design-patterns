@@ -6,17 +6,17 @@
 ## List of design patterns
 | Design pattern | Type | Description |
 |----------------|------|-------------|
-| [Factory](/factory/README.md) | [Creational](#creational) | |
-| [Builder](/builder/README.md) | [Creational](#creational) | |
-| [Singleton](/strategy/README.md) | [Creational](#creational) | |
-| [Adapter](/adapter/README.md) | [Structural](#structural) | |
-| [Composite](/composite/README.md) | [Structural](#structural) | |
-| [Decorator](/decorator/README.md) | [Structural](#structural) | |
-| [Facade](/facade/README.md) | [Structural](#structural) | |
-| [Command](/command/README.md) | [Behavioural](#behavioural) | |
-| [Observer](/observer/README.md) | [Behavioural](#behavioural) | |
-| [State](/state/README.md) | [Behavioural](#behavioural) | |
-| [Strategy](/strategy/README.md) | [Behavioural](#behavioural) | |
+| [Factory](/factory/README.md) | [Creational](#creational) | `TODO` |
+| [Builder](/builder/README.md) | [Creational](#creational) | `TODO` |
+| [Singleton](/strategy/README.md) | [Creational](#creational) | `TODO` |
+| [Adapter](/adapter/README.md) | [Structural](#structural) | `TODO` |
+| [Composite](/composite/README.md) | [Structural](#structural) | `TODO` |
+| [Decorator](/decorator/README.md) | [Structural](#structural) | `TODO` |
+| [Facade](/facade/README.md) | [Structural](#structural) | `TODO` |
+| [Command](/command/README.md) | [Behavioural](#behavioural) | `TODO` |
+| [Observer](/observer/README.md) | [Behavioural](#behavioural) | `TODO` |
+| [State](/state/README.md) | [Behavioural](#behavioural) | `TODO` |
+| [Strategy](/strategy/README.md) | [Behavioural](#behavioural) | `TODO` |
 
 ## Design pattern types
 ### Creational
