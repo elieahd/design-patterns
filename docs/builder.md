@@ -48,6 +48,10 @@ public class ItemBuilder {
 
 To access the instance
 ```java
+Item item = new ItemBuilder()
+        .name("item name")
+        .description("item description")
+        .build();
 ```
 
 ### A simplified version with lombok
