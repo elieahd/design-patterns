@@ -13,7 +13,7 @@
 A design patther that deals with creating object in a manner suitable to a situation
 | Design pattern                  | Description |
 |---------------------------------|-------------|
-| [Factory](/docs/factory.md)     | `TODO`      |
+| [Factory](/docs/factory.md)     | creating objects without having to specify the exact class of the object that will be created |
 | [Builder](/docs/builder.md)     | constructing complex objects in a simplified manner |
 | [Singleton](/docs/singleton.md) | restricting the instantiation of a class to one "single" instance |
 
