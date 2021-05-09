@@ -14,7 +14,7 @@ A design patther that deals with creating object in a manner suitable to a situa
 | Design pattern                  | Description |
 |---------------------------------|-------------|
 | [Factory](/docs/factory.md)     | `TODO`      |
-| [Builder](/docs/builder.md)     | `TODO`      |
+| [Builder](/docs/builder.md)     | constructing complex objects in a simplified manner |
 | [Singleton](/docs/singleton.md) | restricting the instantiation of a class to one "single" instance |
 
 ## Structural
