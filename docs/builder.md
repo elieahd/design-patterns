@@ -3,6 +3,8 @@
 ## Description
 Provide a way to create a complex object with different representation in a simplified manner
 
+This design pattern helps to get rid of the "telescopic constructor"
+
 ## Diagram
 <p align="center">
   <img src="diagrams/builder.png">
@@ -73,5 +75,4 @@ Item item = Item.builder()
 ```
 
 ## Use cases
-- Use the Builder pattern to get rid of a “telescopic constructor”
 - String.append
