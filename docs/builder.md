@@ -75,4 +75,4 @@ Item item = Item.builder()
 ```
 
 ## Use cases
-- String.append
+- `StringBuilder` with the method `append(String str)` to concatenate strings
