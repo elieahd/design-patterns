@@ -16,13 +16,15 @@ public interface Movable {
     double getSpeed();// speed in MPH
 }
 public class Car implements Movable {
-    private double speed;
-    public Car(double speed) {
-        this.speed = speed;
-    }
     @Override
     public double getSpeed() {
-        return speed;
+        return 150;
+    }
+}
+public class Boat implements Movable {
+    @Override
+    public double getSpeed() {
+        return 300;
     }
 }
 public interface MovableAdapter {
