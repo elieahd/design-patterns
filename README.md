@@ -21,10 +21,10 @@ A design pattern that deals with creating object in a manner suitable to a situa
 A design pattern that deals with assembling objects and classes into a flexible and efficient structure
 | Design pattern                  | Description |
 |---------------------------------|-------------|
-| [Adapter](/docs/adapter.md)     | allows objects with incompatible interfaces to collaborate |
+| [Adapter](/docs/adapter.md)     | allowing objects with incompatible interfaces to collaborate |
 | [Composite](/docs/composite.md) | composing objects into tree structures |
-| [Decorator](/docs/decorator.md) | `TODO`      |
-| [Facade](/docs/facade.md)       | `TODO`      |
+| [Decorator](/docs/decorator.md) | attaching new behaviors to objects |
+| [Facade](/docs/facade.md)       | simplifying and restricting the code by a new wrapper class "facade" |
 
 ## Behavioural
 `TODO`
