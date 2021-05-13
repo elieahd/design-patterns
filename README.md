@@ -27,10 +27,11 @@ A design pattern that deals with assembling objects and classes into a flexible 
 | [Facade](/docs/facade.md)       | simplifying and restricting the code by a new wrapper class "facade" |
 
 ## Behavioural
+A design pattern that deals with communications between objects
 `TODO`
 | Design pattern                | Description |
 |-------------------------------|-------------|
-| [Command](/docs/command.md)   | `TODO`      |
+| [Command](/docs/command.md)   | encapsulating in an object all data required to perform an action |
 | [Observer](/docs/observer.md) | `TODO`      |
 | [State](/docs/state.md)       | `TODO`      |
 | [Strategy](/docs/strategy.md) | `TODO`      |
