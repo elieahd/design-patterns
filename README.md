@@ -31,6 +31,6 @@ A design pattern that deals with communications between objects
 | Design pattern                | Description |
 |-------------------------------|-------------|
 | [Command](/docs/command.md)   | encapsulating in an object all data required to perform an action |
-| [Observer](/docs/observer.md) | `TODO`      |
+| [Observer](/docs/observer.md) | notifying observers about changes in its state |
 | [State](/docs/state.md)       | `TODO`      |
 | [Strategy](/docs/strategy.md) | `TODO`      |
