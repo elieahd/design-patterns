@@ -28,7 +28,6 @@ A design pattern that deals with assembling objects and classes into a flexible 
 
 ## Behavioural
 A design pattern that deals with communications between objects
-`TODO`
 | Design pattern                | Description |
 |-------------------------------|-------------|
 | [Command](/docs/command.md)   | encapsulating in an object all data required to perform an action |
