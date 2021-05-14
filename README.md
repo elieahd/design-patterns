@@ -32,5 +32,5 @@ A design pattern that deals with communications between objects
 |-------------------------------|-------------|
 | [Command](/docs/command.md)   | encapsulating in an object all data required to perform an action |
 | [Observer](/docs/observer.md) | notifying observers about changes in its state |
-| [State](/docs/state.md)       | `TODO`      |
-| [Strategy](/docs/strategy.md) | `TODO`      |
+| [State](/docs/state.md)       | allowing an object to alter its behavior when its internal state changes |
+| [Strategy](/docs/strategy.md) | selecting an algorithm at runtime  |
